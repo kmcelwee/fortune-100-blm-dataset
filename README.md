@@ -54,6 +54,11 @@ This dataset does not include tweets that simply say "we promote diversity!" wit
 
 Naturally, this dataset should be approached with tremendous care, as a lot of nuance is lost when reducing each tweet to a binary.
 
+### Other files
+- The `tmp` directory is used for unimportant CSVs or data saved mid-pipeline. It's not validated, so only trust data in the `data` repository.
+- `.github/` performs data validation through the [Frictionless Data](https://frictionlessdata.io/) framework and custom scripts in `test.py`. It runs `python test.py` and `goodtables datapackage.json` as well as `python pipeline.py` to make sure that both the published data meets the schema requirements and that the pipeline transforms data into a schema that meets our requirements.
+- `pipeline.py` outlines how the data was processed from raw JSON data and Google Form entry.
+
 ## Other Notes
 
 - AT&T and Nike made their Black Lives Matter campaigns central to their profile.
@@ -73,6 +78,10 @@ AT&T Twitter Profile               |  Nike Twitter Profile
 - UTC is used.
 - Goldman Sachs plays an odd role here, because they use their Twitter more like a news organization than a PR platform. They host talks with prominent leaders, so naturally, they hosted speakers to speak about racial inequity in the US. These videos are included in `blm-tweets.csv` because they addressed racial inequity, and Goldman used their platform to share these conversations.
 - Lastly, a reminder that this data only helps reveal how companies chose to act *on Twitter*, and does not necessarily reflect their full efforts to address racial inequity.
+
+## Quick setup
+
+If for some reason you'd like to run the pipeline locally. Create a Python 3.8 environment and install the necessary libraries using `pip install -r requirements.py`. Execute with `python pipeline.py`
 
 ## Contact
 
