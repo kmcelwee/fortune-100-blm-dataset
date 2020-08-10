@@ -1,0 +1,101 @@
+Corporation,URL,Rank,Handle,Sector
+Walmart,https://twitter.com/Walmart,1,Walmart,Retailing
+Amazon.com,https://twitter.com/amazon,2,amazon,Retailing
+Exxon Mobil,https://twitter.com/exxonmobil,3,exxonmobil,Energy
+Apple,,4,,Technology
+CVS Health,https://twitter.com/cvspharmacy,5,cvspharmacy,Health Care
+Berkshire Hathaway,,6,,Financials
+UnitedHealth Group,https://twitter.com/UnitedHealthGrp,7,UnitedHealthGrp,Health Care
+McKesson,https://twitter.com/McKesson,8,McKesson,Health Care
+AT&T,https://twitter.com/ATT,9,ATT,Telecommunications
+AmerisourceBergen,,10,,Health Care
+Alphabet,https://twitter.com/Google,11,Google,Technology
+Ford Motor,https://twitter.com/Ford,12,Ford,Motor Vehicles & Parts
+Cigna,https://twitter.com/Cigna,13,Cigna,Health Care
+Costco Wholesale,,14,,Retailing
+Chevron,https://twitter.com/Chevron,15,Chevron,Energy
+Cardinal Health,https://twitter.com/cardinalhealth,16,cardinalhealth,Health Care
+JPMorgan Chase,,17,,Financials
+General Motors,https://twitter.com/GM,18,GM,Motor Vehicles & Parts
+Walgreens Boots Alliance,https://twitter.com/Walgreens,19,Walgreens,Food & Drug Stores
+Verizon Communications,https://twitter.com/Verizon,20,Verizon,Telecommunications
+Microsoft,https://twitter.com/Microsoft,21,Microsoft,Technology
+Marathon Petroleum,https://twitter.com/MarathonPetroCo,22,MarathonPetroCo,Energy
+Kroger,https://twitter.com/kroger,23,kroger,Food & Drug Stores
+Fannie Mae,https://twitter.com/FannieMae,24,FannieMae,Financials
+Bank of America,https://twitter.com/BankofAmerica,25,BankofAmerica,Financials
+Home Depot,https://twitter.com/HomeDepot,26,HomeDepot,Retailing
+Phillips 66,https://twitter.com/Phillips66Co,27,Phillips66Co,Energy
+Comcast,https://twitter.com/comcast,28,comcast,Telecommunications
+Anthem,https://twitter.com/AnthemBCBS,29,AnthemBCBS,Health Care
+Wells Fargo,https://twitter.com/WellsFargo,30,WellsFargo,Financials
+Citigroup,https://twitter.com/Citi,31,Citi,Financials
+Valero Energy,https://twitter.com/ValeroEnergy,32,ValeroEnergy,Energy
+General Electric,https://twitter.com/generalelectric,33,generalelectric,Industrials
+Dell Technologies,https://twitter.com/DellTech,34,DellTech,Technology
+Johnson & Johnson,https://twitter.com/JNJNews,35,JNJNews,Health Care
+State Farm Insurance,https://twitter.com/StateFarm,36,StateFarm,Financials
+Target,https://twitter.com/Target,37,Target,Retailing
+IBM,https://twitter.com/IBM,38,IBM,Technology
+Raytheon Technologies,https://twitter.com/RaytheonTech,39,RaytheonTech,Aerospace & Defense
+Boeing,https://twitter.com/Boeing,40,Boeing,Aerospace & Defense
+Freddie Mac,https://twitter.com/FreddieMac,41,FreddieMac,Financials
+Centene,https://twitter.com/Centene,42,Centene,Health Care
+United Parcel Service,https://twitter.com/UPS,43,UPS,Transportation
+Lowe's,https://twitter.com/Lowes,44,Lowes,Retailing
+Intel,https://twitter.com/intel,45,intel,Technology
+Facebook,https://twitter.com/Facebook,46,Facebook,Technology
+FedEx,https://twitter.com/FedEx,47,FedEx,Transportation
+MetLife,https://twitter.com/MetLife,48,MetLife,Financials
+Walt Disney,https://twitter.com/Disney,49,Disney,Media
+Procter & Gamble,https://twitter.com/ProcterGamble,50,ProcterGamble,Household Products
+PepsiCo,https://twitter.com/PepsiCo,51,PepsiCo,Food Beverages & Tobacco
+Humana,https://twitter.com/Humana,52,Humana,Health Care
+Prudential Financial,https://twitter.com/Prudential,53,Prudential,Financials
+Archer Daniels Midland,https://twitter.com/TradeADMIS,54,TradeADMIS,Food Beverages & Tobacco
+Albertsons,https://twitter.com/Albertsons,55,Albertsons,Food & Drug Stores
+Sysco,https://twitter.com/Sysco,56,Sysco,Wholesalers
+Lockheed Martin,https://twitter.com/LockheedMartin,57,LockheedMartin,Aerospace & Defense
+HP,https://twitter.com/HP,58,HP,Technology
+Goldman Sachs Group,https://twitter.com/GoldmanSachs,59,GoldmanSachs,Financials
+Energy Transfer,https://twitter.com/EnergyTransfer,60,EnergyTransfer,Energy
+Morgan Stanley,https://twitter.com/MorganStanley,61,MorganStanley,Financials
+Caterpillar,https://twitter.com/CaterpillarInc,62,CaterpillarInc,Industrials
+Cisco Systems,https://twitter.com/Cisco,63,Cisco,Technology
+Pfizer,https://twitter.com/pfizer,64,pfizer,Health Care
+HCA Healthcare,,65,,Health Care
+AIG,https://twitter.com/AIGinsurance,66,AIGinsurance,Financials
+American Express,https://twitter.com/AmericanExpress,67,AmericanExpress,Financials
+Delta Air Lines,https://twitter.com/Delta,68,Delta,Transportation
+Merck,https://twitter.com/Merck,69,Merck,Health Care
+American Airlines Group,https://twitter.com/AmericanAir,70,AmericanAir,Transportation
+Charter Communications,https://twitter.com/GetSpectrum,71,GetSpectrum,Telecommunications
+Allstate,https://twitter.com/Allstate,72,Allstate,Financials
+New York Life Insurance,https://twitter.com/NewYorkLife,73,NewYorkLife,Financials
+Nationwide,https://twitter.com/Nationwide,74,Nationwide,Financials
+Best Buy,https://twitter.com/BestBuy,75,BestBuy,Retailing
+United Airlines Holdings,https://twitter.com/united,76,united,Transportation
+Liberty Mutual Insurance Group,https://twitter.com/LibertyMutual,77,LibertyMutual,Financials
+Dow,https://twitter.com/DowNewsroom,78,DowNewsroom,Chemicals
+Tyson Foods,https://twitter.com/TysonFoods,79,TysonFoods,Food Beverages & Tobacco
+TIAA,https://twitter.com/TIAA,80,TIAA,Financials
+TJX,,81,,Retailing
+Oracle,https://twitter.com/Oracle,82,Oracle,Technology
+General Dynamics,https://twitter.com/generaldynamics,83,generaldynamics,Aerospace & Defense
+Deere,https://twitter.com/JohnDeere,84,JohnDeere,Industrials
+Nike,https://twitter.com/Nike,85,Nike,Apparel
+Progressive,https://twitter.com/Progressive,86,Progressive,Financials
+Publix Super Markets,https://twitter.com/Publix,87,Publix,Food & Drug Stores
+Coca-Cola,https://twitter.com/CocaCola,88,CocaCola,Food Beverages & Tobacco
+Massachusetts Mutual Life Insurance,https://twitter.com/massmutual,89,massmutual,Financials
+Tech Data,https://twitter.com/Tech_Data,90,Tech_Data,Wholesalers
+World Fuel Services,,91,,Energy
+Honeywell International,https://twitter.com/honeywell,92,honeywell,Industrials
+ConocoPhillips,https://twitter.com/conocophillips,93,conocophillips,Energy
+USAA,https://twitter.com/USAA,94,USAA,Financials
+Exelon,https://twitter.com/Exelon,95,Exelon,Energy
+Northrop Grumman,https://twitter.com/northropgrumman,96,northropgrumman,Aerospace & Defense
+Capital One Financial,https://twitter.com/CapitalOne,97,CapitalOne,Financials
+Plains GP Holdings,,98,,Energy
+AbbVie,https://twitter.com/abbvie,99,abbvie,Health Care
+StoneX,https://twitter.com/StoneX_Official,100,StoneX_Official,Financials

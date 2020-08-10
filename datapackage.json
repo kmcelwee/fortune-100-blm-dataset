@@ -1,0 +1,221 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "data/fortune-100.csv",
+            "profile": "tabular-data-resource",
+            "name": "canonical_story",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Corporation",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "unique": true
+                        }
+                    },
+                    {
+                        "name": "URL",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": false
+                        }
+                    },
+                    {
+                        "name": "Rank",
+                        "type": "integer",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Handle",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": false
+                        }
+                    },
+                    {
+                        "name": "Sector",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": false
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/fortune-100-tweets.csv",
+            "profile": "tabular-data-resource",
+            "name": "canonical_story",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ID",
+                        "type": "integer",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "unique": true
+                        }
+                    },
+                    {
+                        "name": "Corporation",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Text",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Datetime",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Racial Justice",
+                        "type": "boolean",
+                        "format": "default",
+                        "constraints": {
+                            "required": false
+                        }
+                    },
+                    {
+                        "name": "Hashtags",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": false
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "data/blm-tweets.csv",
+            "profile": "tabular-data-resource",
+            "name": "canonical_story",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ID",
+                        "type": "integer",
+                        "format": "default",
+                        "constraints": {
+                            "required": true,
+                            "unique": true
+                        }
+                    },
+                    {
+                        "name": "Corporation",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Handle",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Text",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Datetime",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Hashtags",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": false
+                        }
+                    },
+                    {
+                        "name": "BLM",
+                        "type": "boolean",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Juneteenth",
+                        "type": "boolean",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Money",
+                        "type": "boolean",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    },
+                    {
+                        "name": "Company Leader Statement",
+                        "type": "boolean",
+                        "format": "default",
+                        "constraints": {
+                            "required": true
+                        }
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

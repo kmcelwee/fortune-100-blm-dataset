@@ -1,0 +1,4369 @@
+[
+    {
+        "created_at": "Mon Jul 27 14:52:11 +0000 2020",
+        "id": 1287762714195001346,
+        "id_str": "1287762714195001346",
+        "full_text": "We're proud to have earned the top spot in @thepointsguy 2020 Best Airlines Report, focused entirely on how carriers have responded to COVID-19.\n\nOur people have been working tirelessly to ensure you feel confident when you travel with us...and it shows!",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            254
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "thepointsguy",
+                    "name": "The Points Guy",
+                    "id": 34176543,
+                    "id_str": "34176543",
+                    "indices": [
+                        43,
+                        56
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592540,
+            "friends_count": 39914,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 104,
+        "favorite_count": 699,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Jul 26 12:20:09 +0000 2020",
+        "id": 1287362068866314240,
+        "id_str": "1287362068866314240",
+        "full_text": "We\u2019re proud to celebrate the Americans with Disabilities Act (ADA) 30th Anniversary and remain committed to ensuring that people with disabilities have the same rights and opportunities as everyone else. #ADA30",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            210
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ADA30",
+                    "indices": [
+                        204,
+                        210
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592540,
+            "friends_count": 39914,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 34,
+        "favorite_count": 337,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Jul 25 18:18:47 +0000 2020",
+        "id": 1287089933224566785,
+        "id_str": "1287089933224566785",
+        "full_text": "Due to the forecasted path of Hurricane Douglas we\u2019ve issued a travel waiver. View more info here: https://t.co/oc9w6X86qg\n https://t.co/nCk7AYiB6f",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            147
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oc9w6X86qg",
+                    "expanded_url": "https://bit.ly/3eZCu0w",
+                    "display_url": "bit.ly/3eZCu0w",
+                    "indices": [
+                        99,
+                        122
+                    ]
+                },
+                {
+                    "url": "https://t.co/nCk7AYiB6f",
+                    "expanded_url": "https://www.delta.com/us/en/advisories/weather-alerts/hurricane-douglas",
+                    "display_url": "delta.com/us/en/advisori\u2026",
+                    "indices": [
+                        124,
+                        147
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://www.lithium.com\" rel=\"nofollow\">Lithium Tech.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592540,
+            "friends_count": 39914,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 16,
+        "favorite_count": 54,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 24 16:38:12 +0000 2020",
+        "id": 1286702232327553024,
+        "id_str": "1286702232327553024",
+        "full_text": "Mask on. Seatbelt on. This is the way. \n\nBut remember to keep your nose covered. That is actually the way. https://t.co/O85OusVL1V",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            106
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1286702208344559621,
+                    "id_str": "1286702208344559621",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdtI11wWkAUR6d8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EdtI11wWkAUR6d8.jpg",
+                    "url": "https://t.co/O85OusVL1V",
+                    "display_url": "pic.twitter.com/O85OusVL1V",
+                    "expanded_url": "https://twitter.com/Delta/status/1286702232327553024/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1286702208344559621,
+                    "id_str": "1286702208344559621",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdtI11wWkAUR6d8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EdtI11wWkAUR6d8.jpg",
+                    "url": "https://t.co/O85OusVL1V",
+                    "display_url": "pic.twitter.com/O85OusVL1V",
+                    "expanded_url": "https://twitter.com/Delta/status/1286702232327553024/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592540,
+            "friends_count": 39914,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 367,
+        "favorite_count": 2311,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jul 24 16:00:01 +0000 2020",
+        "id": 1286692624204738563,
+        "id_str": "1286692624204738563",
+        "full_text": "Safety for the win. \ud83c\udfc6\ud83d\ude4c https://t.co/CGM1MegKGp",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            22
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CGM1MegKGp",
+                    "expanded_url": "https://twitter.com/amandahmesler/status/1284547662994386944",
+                    "display_url": "twitter.com/amandahmesler/\u2026",
+                    "indices": [
+                        23,
+                        46
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592540,
+            "friends_count": 39914,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1284547662994386944,
+        "quoted_status_id_str": "1284547662994386944",
+        "quoted_status_permalink": {
+            "url": "https://t.co/CGM1MegKGp",
+            "expanded": "https://twitter.com/amandahmesler/status/1284547662994386944",
+            "display": "twitter.com/amandahmesler/\u2026"
+        },
+        "quoted_status": {
+            "created_at": "Sat Jul 18 17:56:43 +0000 2020",
+            "id": 1284547662994386944,
+            "id_str": "1284547662994386944",
+            "full_text": "Flew @Delta today and felt so safe. Proper social distance on the plane and mandatory mask requirement. Thank you and will fly again soon.",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                138
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Delta",
+                        "name": "Delta",
+                        "id": 5920532,
+                        "id_str": "5920532",
+                        "indices": [
+                            5,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 25651483,
+                "id_str": "25651483",
+                "name": "Amanda Hill",
+                "screen_name": "amandahmesler",
+                "location": "Los Angeles, CA",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 110,
+                "friends_count": 316,
+                "listed_count": 2,
+                "created_at": "Sat Mar 21 07:09:39 +0000 2009",
+                "favourites_count": 1960,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 550,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/900562191492890624/YcOUkDOX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/900562191492890624/YcOUkDOX_normal.jpg",
+                "profile_link_color": "0099FF",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 13,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 25,
+        "favorite_count": 389,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jul 22 17:00:01 +0000 2020",
+        "id": 1285982947808555009,
+        "id_str": "1285982947808555009",
+        "full_text": "Using only a GIF, show us the top destination on your travel bucket list.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            73
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592557,
+            "friends_count": 39911,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 72,
+        "favorite_count": 1028,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jul 22 13:11:45 +0000 2020",
+        "id": 1285925503073910786,
+        "id_str": "1285925503073910786",
+        "full_text": "RT @TODAYshow: Watch @WillieGeist\u2019s full interview with @Delta CEO Ed Bastian about how the airline industry is coping with the pandemic, a\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TODAYshow",
+                    "name": "TODAY",
+                    "id": 7744592,
+                    "id_str": "7744592",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "WillieGeist",
+                    "name": "Willie Geist",
+                    "id": 17291393,
+                    "id_str": "17291393",
+                    "indices": [
+                        21,
+                        33
+                    ]
+                },
+                {
+                    "screen_name": "Delta",
+                    "name": "Delta",
+                    "id": 5920532,
+                    "id_str": "5920532",
+                    "indices": [
+                        56,
+                        62
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592541,
+            "friends_count": 39914,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 22 11:51:04 +0000 2020",
+            "id": 1285905195449409541,
+            "id_str": "1285905195449409541",
+            "full_text": "Watch @WillieGeist\u2019s full interview with @Delta CEO Ed Bastian about how the airline industry is coping with the pandemic, and the steps his company is taking to keep passengers safe. https://t.co/vRryxfKPd8",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                183
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "WillieGeist",
+                        "name": "Willie Geist",
+                        "id": 17291393,
+                        "id_str": "17291393",
+                        "indices": [
+                            6,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "Delta",
+                        "name": "Delta",
+                        "id": 5920532,
+                        "id_str": "5920532",
+                        "indices": [
+                            41,
+                            47
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1285904832369504260,
+                        "id_str": "1285904832369504260",
+                        "indices": [
+                            184,
+                            207
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Edhz9LCX0AMTtlE.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Edhz9LCX0AMTtlE.jpg",
+                        "url": "https://t.co/vRryxfKPd8",
+                        "display_url": "pic.twitter.com/vRryxfKPd8",
+                        "expanded_url": "https://twitter.com/TODAYshow/status/1285905195449409541/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1285904832369504260,
+                        "id_str": "1285904832369504260",
+                        "indices": [
+                            184,
+                            207
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Edhz9LCX0AMTtlE.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Edhz9LCX0AMTtlE.jpg",
+                        "url": "https://t.co/vRryxfKPd8",
+                        "display_url": "pic.twitter.com/vRryxfKPd8",
+                        "expanded_url": "https://twitter.com/TODAYshow/status/1285905195449409541/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 312615,
+                            "variants": [
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1285904832369504260/vid/1280x720/7Vf8rTGibO9gkusD.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1285904832369504260/pl/Bh1PL5e2J-s1lU01.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1285904832369504260/vid/640x360/Jy01odBbq2OP49dS.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1285904832369504260/vid/480x270/T_zQ_pQ-95Vg_mse.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "call_to_actions": {
+                                "visit_site": {
+                                    "url": "https://www.today.com?cid=sm_npd_td_tw_ma"
+                                }
+                            },
+                            "embeddable": true,
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 7744592,
+                "id_str": "7744592",
+                "name": "TODAY",
+                "screen_name": "TODAYshow",
+                "location": "Studio 1A",
+                "description": "America's favorite morning show",
+                "url": "https://t.co/F4QAq97Dvo",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/F4QAq97Dvo",
+                                "expanded_url": "http://TODAY.com",
+                                "display_url": "TODAY.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4254167,
+                "friends_count": 7987,
+                "listed_count": 18336,
+                "created_at": "Thu Jul 26 19:56:22 +0000 2007",
+                "favourites_count": 10296,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 162226,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "FF9805",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1029703756206682112/nLq9XIww_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029703756206682112/nLq9XIww_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/7744592/1534857994",
+                "profile_link_color": "FF503C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFAED",
+                "profile_text_color": "525252",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 70,
+            "favorite_count": 275,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 70,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 14:50:39 +0000 2020",
+        "id": 1283776063265439744,
+        "id_str": "1283776063265439744",
+        "full_text": "We know you have questions about traveling, so we caught up with infectious disease expert Dr. Michael Saag to explain why airplane cabin air is clean, safe and healthy to breathe. https://t.co/XGI90nW86t",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            180
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1283775868360372224,
+                    "id_str": "1283775868360372224",
+                    "indices": [
+                        181,
+                        204
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdDjg9vX0AMEPwl.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EdDjg9vX0AMEPwl.png",
+                    "url": "https://t.co/XGI90nW86t",
+                    "display_url": "pic.twitter.com/XGI90nW86t",
+                    "expanded_url": "https://twitter.com/Delta/status/1283776063265439744/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1283775868360372224,
+                    "id_str": "1283775868360372224",
+                    "indices": [
+                        181,
+                        204
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EdDjg9vX0AMEPwl.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EdDjg9vX0AMEPwl.png",
+                    "url": "https://t.co/XGI90nW86t",
+                    "display_url": "pic.twitter.com/XGI90nW86t",
+                    "expanded_url": "https://twitter.com/Delta/status/1283776063265439744/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 126418,
+                        "variants": [
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1283775868360372224/vid/480x270/yLYta5t6PeFTpmpQ.mp4?tag=13"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1283775868360372224/pl/BqBHt2rHV6xlN1ss.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1283775868360372224/vid/1280x720/ayfeNolJgGL1kZzP.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1283775868360372224/vid/640x360/4MQcaZ7rbVCcrU1U.mp4?tag=13"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592541,
+            "friends_count": 39914,
+            "listed_count": 10203,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2086,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1106339,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 86,
+        "favorite_count": 283,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jul 15 14:01:05 +0000 2020",
+        "id": 1283401199287521280,
+        "id_str": "1283401199287521280",
+        "full_text": "We know you have questions about traveling, so we caught up with infectious disease expert Dr. Michael Saag to explain why airplane cabin air is clean, safe and healthy to breathe. https://t.co/oyhV6MoI2W",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            180
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1283400970232377345,
+                    "id_str": "1283400970232377345",
+                    "indices": [
+                        181,
+                        204
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ec-OlPzWsAESlgE.png",
+                    "media_url_https": "https://pbs.twimg.com/media/Ec-OlPzWsAESlgE.png",
+                    "url": "https://t.co/oyhV6MoI2W",
+                    "display_url": "pic.twitter.com/oyhV6MoI2W",
+                    "expanded_url": "https://twitter.com/Delta/status/1283401199287521280/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1283400970232377345,
+                    "id_str": "1283400970232377345",
+                    "indices": [
+                        181,
+                        204
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ec-OlPzWsAESlgE.png",
+                    "media_url_https": "https://pbs.twimg.com/media/Ec-OlPzWsAESlgE.png",
+                    "url": "https://t.co/oyhV6MoI2W",
+                    "display_url": "pic.twitter.com/oyhV6MoI2W",
+                    "expanded_url": "https://twitter.com/Delta/status/1283401199287521280/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 126418,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1283400970232377345/pl/swixnbStqEIYGWU8.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1283400970232377345/vid/480x270/V0lZ5noeEOqM3YMq.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1283400970232377345/vid/640x360/dWNwQr_jjO20xiq-.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1283400970232377345/vid/1280x720/MGXGI7unNuOo4hYX.mp4?tag=13"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 37,
+        "favorite_count": 133,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jul 13 18:39:23 +0000 2020",
+        "id": 1282746461055262730,
+        "id_str": "1282746461055262730",
+        "full_text": "We'll always go the extra mile for you. \u2764\ufe0f https://t.co/0m7EjVr1io",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            42
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0m7EjVr1io",
+                    "expanded_url": "https://twitter.com/JShaunM/status/1279076937969872897",
+                    "display_url": "twitter.com/JShaunM/status\u2026",
+                    "indices": [
+                        43,
+                        66
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1279076937969872897,
+        "quoted_status_id_str": "1279076937969872897",
+        "quoted_status_permalink": {
+            "url": "https://t.co/0m7EjVr1io",
+            "expanded": "https://twitter.com/JShaunM/status/1279076937969872897",
+            "display": "twitter.com/JShaunM/status\u2026"
+        },
+        "quoted_status": {
+            "created_at": "Fri Jul 03 15:38:00 +0000 2020",
+            "id": 1279076937969872897,
+            "id_str": "1279076937969872897",
+            "full_text": "@Delta Thank you and your crew for the health precautions and lovely flight given the circumstances. The hand-written note was just an extra bonus, we love flying with you. https://t.co/Azux5cVfNp",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                172
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Delta",
+                        "name": "Delta",
+                        "id": 5920532,
+                        "id_str": "5920532",
+                        "indices": [
+                            0,
+                            6
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1279076920681009154,
+                        "id_str": "1279076920681009154",
+                        "indices": [
+                            173,
+                            196
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EcAxrrmXkAI6MsI.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EcAxrrmXkAI6MsI.jpg",
+                        "url": "https://t.co/Azux5cVfNp",
+                        "display_url": "pic.twitter.com/Azux5cVfNp",
+                        "expanded_url": "https://twitter.com/JShaunM/status/1279076937969872897/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1279076920681009154,
+                        "id_str": "1279076920681009154",
+                        "indices": [
+                            173,
+                            196
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EcAxrrmXkAI6MsI.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EcAxrrmXkAI6MsI.jpg",
+                        "url": "https://t.co/Azux5cVfNp",
+                        "display_url": "pic.twitter.com/Azux5cVfNp",
+                        "expanded_url": "https://twitter.com/JShaunM/status/1279076937969872897/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 768,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 5920532,
+            "in_reply_to_user_id_str": "5920532",
+            "in_reply_to_screen_name": "Delta",
+            "user": {
+                "id": 332411795,
+                "id_str": "332411795",
+                "name": "Shaun McKeehan",
+                "screen_name": "JShaunM",
+                "location": "San Francisco, CA",
+                "description": "@Apple, ex-@NASA",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 34,
+                "friends_count": 78,
+                "listed_count": 0,
+                "created_at": "Sat Jul 09 19:15:59 +0000 2011",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 292,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1239473383718309888/-I1uCD4v_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239473383718309888/-I1uCD4v_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 23,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 21,
+        "favorite_count": 346,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 09 20:59:24 +0000 2020",
+        "id": 1281332147496812545,
+        "id_str": "1281332147496812545",
+        "full_text": "RT @TODAYshow: Demand is slowly picking up for the airline industry, but just how safe is flying amid the coronavirus pandemic? @ReporterBl\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TODAYshow",
+                    "name": "TODAY",
+                    "id": 7744592,
+                    "id_str": "7744592",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Jul 07 11:50:39 +0000 2020",
+            "id": 1280469274843328512,
+            "id_str": "1280469274843328512",
+            "full_text": "Demand is slowly picking up for the airline industry, but just how safe is flying amid the coronavirus pandemic? @ReporterBlayne gets a behind-the-scenes look at what Delta Air Lines is doing to keep passengers safe. https://t.co/kjW4bGEaMQ",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                216
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ReporterBlayne",
+                        "name": "Blayne Alexander",
+                        "id": 17270153,
+                        "id_str": "17270153",
+                        "indices": [
+                            113,
+                            128
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1280469056047415297,
+                        "id_str": "1280469056047415297",
+                        "indices": [
+                            217,
+                            240
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EcUkBAIXQAAwPPN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EcUkBAIXQAAwPPN.jpg",
+                        "url": "https://t.co/kjW4bGEaMQ",
+                        "display_url": "pic.twitter.com/kjW4bGEaMQ",
+                        "expanded_url": "https://twitter.com/TODAYshow/status/1280469274843328512/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1280469056047415297,
+                        "id_str": "1280469056047415297",
+                        "indices": [
+                            217,
+                            240
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EcUkBAIXQAAwPPN.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EcUkBAIXQAAwPPN.jpg",
+                        "url": "https://t.co/kjW4bGEaMQ",
+                        "display_url": "pic.twitter.com/kjW4bGEaMQ",
+                        "expanded_url": "https://twitter.com/TODAYshow/status/1280469274843328512/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 176074,
+                            "variants": [
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1280469056047415297/vid/480x270/xFek_wG1GZ7IYjJp.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1280469056047415297/pl/ic_tCqwfk6f2LmWh.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1280469056047415297/vid/640x360/Jw0FqnaUDiWMbvQw.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1280469056047415297/vid/1280x720/wmrJfAhnbDhgJbBF.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "call_to_actions": {
+                                "visit_site": {
+                                    "url": "https://www.today.com?cid=sm_npd_td_tw_ma"
+                                }
+                            },
+                            "embeddable": true,
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 7744592,
+                "id_str": "7744592",
+                "name": "TODAY",
+                "screen_name": "TODAYshow",
+                "location": "Studio 1A",
+                "description": "America's favorite morning show",
+                "url": "https://t.co/F4QAq97Dvo",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/F4QAq97Dvo",
+                                "expanded_url": "http://TODAY.com",
+                                "display_url": "TODAY.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4255068,
+                "friends_count": 7991,
+                "listed_count": 18337,
+                "created_at": "Thu Jul 26 19:56:22 +0000 2007",
+                "favourites_count": 10292,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 161551,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "FF9805",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1029703756206682112/nLq9XIww_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029703756206682112/nLq9XIww_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/7744592/1534857994",
+                "profile_link_color": "FF503C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFAED",
+                "profile_text_color": "525252",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 95,
+            "favorite_count": 263,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 95,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 09 17:00:26 +0000 2020",
+        "id": 1281272008937033728,
+        "id_str": "1281272008937033728",
+        "full_text": "Your safety always comes first, which is why we\u2019ve raised the standard for cleanliness at every step of your journey.\n\nWhen you\u2019re ready to fly, know that we\u2019re ready to take care of you. https://t.co/X149aFf1U1",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            187
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1281271915802439685,
+                    "id_str": "1281271915802439685",
+                    "indices": [
+                        188,
+                        211
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ecf-GVxXsAAIPr8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ecf-GVxXsAAIPr8.jpg",
+                    "url": "https://t.co/X149aFf1U1",
+                    "display_url": "pic.twitter.com/X149aFf1U1",
+                    "expanded_url": "https://twitter.com/Delta/status/1281272008937033728/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1281271915802439685,
+                    "id_str": "1281271915802439685",
+                    "indices": [
+                        188,
+                        211
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Ecf-GVxXsAAIPr8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Ecf-GVxXsAAIPr8.jpg",
+                    "url": "https://t.co/X149aFf1U1",
+                    "display_url": "pic.twitter.com/X149aFf1U1",
+                    "expanded_url": "https://twitter.com/Delta/status/1281272008937033728/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "duration_millis": 130964,
+                        "variants": [
+                            {
+                                "bitrate": 1280000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1281271915802439685/vid/720x720/zNKoo2vkW1P6SGDM.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 432000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1281271915802439685/vid/320x320/YbEoQh4V-x6dcQro.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1281271915802439685/vid/480x480/qkEKCfxe4jr5VXaV.mp4?tag=13"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1281271915802439685/pl/5DbY34a17cE3Lw7g.m3u8?tag=13"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 72,
+        "favorite_count": 407,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 09 13:43:30 +0000 2020",
+        "id": 1281222447459696641,
+        "id_str": "1281222447459696641",
+        "full_text": "RT @skyteam: Your safety is our priority. We have teamed up with @traveloneworld and @staralliance to highlight the current health and safe\u2026",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "skyteam",
+                    "name": "SkyTeam",
+                    "id": 42802981,
+                    "id_str": "42802981",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "traveloneworld",
+                    "name": "oneworld Alliance",
+                    "id": 987030841,
+                    "id_str": "987030841",
+                    "indices": [
+                        65,
+                        80
+                    ]
+                },
+                {
+                    "screen_name": "staralliance",
+                    "name": "Star Alliance",
+                    "id": 21401523,
+                    "id_str": "21401523",
+                    "indices": [
+                        85,
+                        98
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 09 09:33:16 +0000 2020",
+            "id": 1281159477757173760,
+            "id_str": "1281159477757173760",
+            "full_text": "Your safety is our priority. We have teamed up with @traveloneworld and @staralliance to highlight the current health and safety measures in place to ensure you can fly with us in confidence. #FlyWithConfidence https://t.co/hoVqdQeKkN",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                210
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FlyWithConfidence",
+                        "indices": [
+                            192,
+                            210
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "traveloneworld",
+                        "name": "oneworld Alliance",
+                        "id": 987030841,
+                        "id_str": "987030841",
+                        "indices": [
+                            52,
+                            67
+                        ]
+                    },
+                    {
+                        "screen_name": "staralliance",
+                        "name": "Star Alliance",
+                        "id": 21401523,
+                        "id_str": "21401523",
+                        "indices": [
+                            72,
+                            85
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1281159258223063041,
+                        "id_str": "1281159258223063041",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281159258223063041/pu/img/zk22KK75OwMFuE5G.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281159258223063041/pu/img/zk22KK75OwMFuE5G.jpg",
+                        "url": "https://t.co/hoVqdQeKkN",
+                        "display_url": "pic.twitter.com/hoVqdQeKkN",
+                        "expanded_url": "https://twitter.com/skyteam/status/1281159477757173760/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1281159258223063041,
+                        "id_str": "1281159258223063041",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281159258223063041/pu/img/zk22KK75OwMFuE5G.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281159258223063041/pu/img/zk22KK75OwMFuE5G.jpg",
+                        "url": "https://t.co/hoVqdQeKkN",
+                        "display_url": "pic.twitter.com/hoVqdQeKkN",
+                        "expanded_url": "https://twitter.com/skyteam/status/1281159477757173760/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 60018,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1281159258223063041/pu/pl/o3YH4_6IVzbwsH5b.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1281159258223063041/pu/vid/640x360/E8WyK0fFjmtrA8qx.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1281159258223063041/pu/vid/1280x720/36T21-0XYYuz8OXh.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1281159258223063041/pu/vid/480x270/gVnKpvheFa_kzdvz.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 42802981,
+                "id_str": "42802981",
+                "name": "SkyTeam",
+                "screen_name": "skyteam",
+                "location": "Worldwide",
+                "description": "The global airline alliance of 19 world-class member airlines, with over 1,000 worldwide destinations. To learn more, visit our website!",
+                "url": "https://t.co/mXo6iJ9c81",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/mXo6iJ9c81",
+                                "expanded_url": "http://www.skyteam.com",
+                                "display_url": "skyteam.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 26498,
+                "friends_count": 372,
+                "listed_count": 413,
+                "created_at": "Wed May 27 03:17:34 +0000 2009",
+                "favourites_count": 1773,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 1310,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/653881079250550784/XtCUdozW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/653881079250550784/XtCUdozW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/42802981/1547029107",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 77,
+            "favorite_count": 273,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 77,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jul 08 16:49:05 +0000 2020",
+        "id": 1280906764200837120,
+        "id_str": "1280906764200837120",
+        "full_text": "RT if you miss hearing this. https://t.co/gNp0uuJ4ww",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            28
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1280906748585562112,
+                    "id_str": "1280906748585562112",
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280906748585562112/pu/img/WWZH3XOjOTrSyJjz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280906748585562112/pu/img/WWZH3XOjOTrSyJjz.jpg",
+                    "url": "https://t.co/gNp0uuJ4ww",
+                    "display_url": "pic.twitter.com/gNp0uuJ4ww",
+                    "expanded_url": "https://twitter.com/Delta/status/1280906764200837120/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1280906748585562112,
+                    "id_str": "1280906748585562112",
+                    "indices": [
+                        29,
+                        52
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280906748585562112/pu/img/WWZH3XOjOTrSyJjz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280906748585562112/pu/img/WWZH3XOjOTrSyJjz.jpg",
+                    "url": "https://t.co/gNp0uuJ4ww",
+                    "display_url": "pic.twitter.com/gNp0uuJ4ww",
+                    "expanded_url": "https://twitter.com/Delta/status/1280906764200837120/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 11193,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1280906748585562112/pu/vid/480x270/Aa9vfL0_O3n9HMUa.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1280906748585562112/pu/vid/640x360/pG0I4FEgrIeCmHE-.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1280906748585562112/pu/pl/k-hWRNDTnk62bagV.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1280906748585562112/pu/vid/1280x720/KOZ9NVUtuKwav-_9.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 904,
+        "favorite_count": 1939,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jul 06 21:22:53 +0000 2020",
+        "id": 1280250893561221126,
+        "id_str": "1280250893561221126",
+        "full_text": "\u2708\ufe0f\ud83d\udcaf\ud83d\udc47 https://t.co/vkm7za7qX2",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            4
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vkm7za7qX2",
+                    "expanded_url": "https://twitter.com/businessinsider/status/1279770697259237377",
+                    "display_url": "twitter.com/businessinside\u2026",
+                    "indices": [
+                        5,
+                        28
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1279770697259237377,
+        "quoted_status_id_str": "1279770697259237377",
+        "quoted_status_permalink": {
+            "url": "https://t.co/vkm7za7qX2",
+            "expanded": "https://twitter.com/businessinsider/status/1279770697259237377",
+            "display": "twitter.com/businessinside\u2026"
+        },
+        "quoted_status": {
+            "created_at": "Sun Jul 05 13:34:45 +0000 2020",
+            "id": 1279770697259237377,
+            "id_str": "1279770697259237377",
+            "full_text": "I flew on the 4 biggest US airlines during the pandemic to see which is handling it best, and found one blew the rest out of the water https://t.co/vqJdCCAKF7",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                158
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/vqJdCCAKF7",
+                        "expanded_url": "http://www.businessinsider.com/what-to-expect-when-flying-on-united-american-delta-southwest-during-pandemic-comparison-2020-7",
+                        "display_url": "businessinsider.com/what-to-expect\u2026",
+                        "indices": [
+                            135,
+                            158
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://www.businessinsider.com\" rel=\"nofollow\">Business Insider Login</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 20562637,
+                "id_str": "20562637",
+                "name": "Business Insider",
+                "screen_name": "businessinsider",
+                "location": "New York, NY",
+                "description": "What you want to know about business. A division of @thisisinsider. Follow us on Facebook, Instagram, and YouTube. Visit our homepage for the day's top stories.",
+                "url": "https://t.co/qJiLYVC7Jx",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/qJiLYVC7Jx",
+                                "expanded_url": "https://www.businessinsider.com/",
+                                "display_url": "businessinsider.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3018083,
+                "friends_count": 298,
+                "listed_count": 31439,
+                "created_at": "Wed Feb 11 01:18:18 +0000 2009",
+                "favourites_count": 1219,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 646502,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "185F7C",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1199017286780231684/P_hQmsjg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199017286780231684/P_hQmsjg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20562637/1588193428",
+                "profile_link_color": "185F7C",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 95,
+            "favorite_count": 267,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 132,
+        "favorite_count": 1072,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Mon Jul 06 17:41:45 +0000 2020",
+        "id": 1280195242050936832,
+        "id_str": "1280195242050936832",
+        "full_text": "Have questions about a canceled flight, or want to rebook using credits? Check out our FAQs.\n\n(If your question isn\u2019t answered here, we\u2019ll be with you as soon as we can! Thanks for your patience. \u2665\ufe0f, the people behind the keyboard.)",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            232
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 24,
+        "favorite_count": 171,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jul 01 15:37:40 +0000 2020",
+        "id": 1278352078784671744,
+        "id_str": "1278352078784671744",
+        "full_text": "#ICYMI: We\u2019re extending our commitment to blocking seats through September 30.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            78
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ICYMI",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 367,
+        "favorite_count": 2900,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Jun 26 19:04:48 +0000 2020",
+        "id": 1276592263032909829,
+        "id_str": "1276592263032909829",
+        "full_text": "We celebrate as @GovKemp signs into law the Georgia Hate Crime bill. Thank you to Governor Kemp, Speaker Ralston, LG @GeoffDuncanGA and the House and Senate for coming together on important legislation and to all of our Delta employees that engaged on the issue.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            262
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GovKemp",
+                    "name": "Governor Brian P. Kemp",
+                    "id": 1064659902071808000,
+                    "id_str": "1064659902071808000",
+                    "indices": [
+                        16,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "GeoffDuncanGA",
+                    "name": "Geoff Duncan",
+                    "id": 907144981,
+                    "id_str": "907144981",
+                    "indices": [
+                        117,
+                        131
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 58,
+        "favorite_count": 427,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Jun 23 21:11:26 +0000 2020",
+        "id": 1275536968370225157,
+        "id_str": "1275536968370225157",
+        "full_text": "Although #Pride looks different this year, the fight for LGBTQ+ rights is just as important as ever.\n\nWe still have a long road towards equality, and we\u2019re committed to using whatever means we have to move the world toward a better, more just tomorrow.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            252
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Pride",
+                    "indices": [
+                        9,
+                        15
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1592251,
+            "friends_count": 39974,
+            "listed_count": 10207,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2017,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1105019,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 43,
+        "favorite_count": 324,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Mon Jun 15 17:30:17 +0000 2020",
+        "id": 1272582210823098372,
+        "id_str": "1272582210823098372",
+        "full_text": "Each of us has an important role in bringing about social justice in our communities, and we\u2019re using our voice to enact change in our hometown.\n\nGeorgia is one of only four states without a law against hate crimes. We\u2019re asking our government to change that.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            259
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1593291,
+            "friends_count": 39876,
+            "listed_count": 10202,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2246,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1107853,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 163,
+        "favorite_count": 748,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Jun 02 12:21:13 +0000 2020",
+        "id": 1267793391322050560,
+        "id_str": "1267793391322050560",
+        "full_text": "Today we bid farewell to two of our longtime workhorses, the MD-88 and MD-90.\n\nFollow along as our last Mad Dog flies its final customers from IAD to ATL: https://t.co/vxKuwQxheQ",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            178
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/vxKuwQxheQ",
+                    "expanded_url": "http://dl.aero/6011TcuWH",
+                    "display_url": "dl.aero/6011TcuWH",
+                    "indices": [
+                        155,
+                        178
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1593291,
+            "friends_count": 39876,
+            "listed_count": 10202,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2246,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1107853,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 226,
+        "favorite_count": 1255,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu May 28 21:00:01 +0000 2020",
+        "id": 1266112013845106688,
+        "id_str": "1266112013845106688",
+        "full_text": "Brushing up on our bartending skills at home has been nice, but there\u2019s nothing like a Delta Sky Club cocktail.\n\nWhich drink would you order right now? https://t.co/AuFlDKp7BV",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            151
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1266112012398010368,
+                    "id_str": "1266112012398010368",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EZIiKsjWoAATgpy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EZIiKsjWoAATgpy.jpg",
+                    "url": "https://t.co/AuFlDKp7BV",
+                    "display_url": "pic.twitter.com/AuFlDKp7BV",
+                    "expanded_url": "https://twitter.com/Delta/status/1266112013845106688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1266112012398010368,
+                    "id_str": "1266112012398010368",
+                    "indices": [
+                        152,
+                        175
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EZIiKsjWoAATgpy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EZIiKsjWoAATgpy.jpg",
+                    "url": "https://t.co/AuFlDKp7BV",
+                    "display_url": "pic.twitter.com/AuFlDKp7BV",
+                    "expanded_url": "https://twitter.com/Delta/status/1266112013845106688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1593291,
+            "friends_count": 39876,
+            "listed_count": 10202,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2246,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1107853,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 40,
+        "favorite_count": 341,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed May 27 18:22:09 +0000 2020",
+        "id": 1265709896550547457,
+        "id_str": "1265709896550547457",
+        "full_text": "We know you\u2019re already planning your next adventure, so let's take a trip through our camera rolls. \n\nFind your last travel photo, then share it with us below \u2b07\ufe0f",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            161
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1593291,
+            "friends_count": 39876,
+            "listed_count": 10202,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2246,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1107853,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 45,
+        "favorite_count": 893,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue May 26 16:43:56 +0000 2020",
+        "id": 1265322791164919809,
+        "id_str": "1265322791164919809",
+        "full_text": "We\u2019re raising the standard for safer travel at every step of your journey. \n\nSee all the ways we\u2019re providing a safer flight experience including the moment you step in the airport.",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            181
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 5920532,
+            "id_str": "5920532",
+            "name": "Delta",
+            "screen_name": "Delta",
+            "location": "Global",
+            "description": "Caring for you is our top priority. For the most up to date information on how we\u2019re responding to COVID-19, visit: https://t.co/l5WcWVfLXl",
+            "url": "https://t.co/9nlY9CLejW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9nlY9CLejW",
+                            "expanded_url": "http://www.delta.com",
+                            "display_url": "delta.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/l5WcWVfLXl",
+                            "expanded_url": "http://delta.com/caringforyou",
+                            "display_url": "delta.com/caringforyou",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1593291,
+            "friends_count": 39876,
+            "listed_count": 10202,
+            "created_at": "Thu May 10 04:31:14 +0000 2007",
+            "favourites_count": 2246,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 1107853,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "003366",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275507788609880070/O1z2hVZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5920532/1591281284",
+            "profile_link_color": "C01932",
+            "profile_sidebar_border_color": "002950",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "003366",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 74,
+        "favorite_count": 421,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]
