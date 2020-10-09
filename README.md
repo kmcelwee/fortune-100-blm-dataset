@@ -1,5 +1,8 @@
 # The Corporate Response to #BlackLivesMatter on Twitter
 
+| :warning:  | Warning: data is still being cleaned, validated, and double-checked for consistency.       |
+|---------------|:------------------------|
+
 Twitter data from Fortune 100 companies from May 25 to July 25, 2020, the two months following the death of George Floyd. All tweets have been manually categorized to help analyze the corporate response to the #BlackLivesMatter protests.
 
 ![validation](https://github.com/kmcelwee/fortune-100-blm/workflows/validation/badge.svg)
