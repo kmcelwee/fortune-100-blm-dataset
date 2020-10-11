@@ -28,6 +28,8 @@ def validate_json():
 
                 # Ensure no tweets were truncated
                 assert not any([tweet['truncated'] for tweet in company_json])
+                # Ensure no IDs were rounded
+                assert all([str(tweet['id']) == tweet['id_str'] for tweet in company_json])
 
 
 def run_tests():
