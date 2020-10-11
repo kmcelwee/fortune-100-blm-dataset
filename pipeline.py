@@ -68,7 +68,7 @@ def link_corporate_and_blm_tweets():
     #   retweet ID. Here we match BLM tweet which has original ID with the data
     #   collected through the API, which contains the retweet ID and the
     #   original ID.
-    # HACK: This can be for more elegant than 30 lines of code.
+    # HACK: This can be more elegant than 30 lines of code.
     blm_ids = df_b['ID'].tolist()
     retweet = []
     for filename in os.listdir('data/fortune-100-json'):
