@@ -49,7 +49,7 @@ A collection of all Fortune 100 tweets that answers the question: "Does this twe
 - `BLM`: Does this tweet or the media attached to this tweet explicitly contain the words "Black Lives Matter"?
 - `Juneteenth`: Does this tweet address Juneteenth?
 - `Money`: Does this tweet mention the corporation's donations to causes (internal or external) addressing racial inequity?
-- `Company Leader Statement`: Does this tweet quote a leader of the company like a CFO or CEO?
+- `Formal Statement`: Does this tweet quote a leader of the company like a CFO or CEO? Is it a press release?
 
 ...and includes the following additional columns shared by `fortune-100-tweets.csv` below: `Corporation`, `Text`, `Datetime`, and `Hashtags`.
 

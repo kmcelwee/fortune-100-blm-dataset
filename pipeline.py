@@ -38,23 +38,6 @@ def combine_json():
 
     df_clipped[cols].to_csv('tmp/fortune-100-trimmed.csv', index=False)
 
-
-def parse_blm_tweets():
-    df = pd.read_csv('tmp/blm-tweets-raw.csv')
-
-    df['BLM'] = [False if pd.isna(x) else 'Black Lives Matter' in x for x in df['Characteristics']]
-    df['Juneteenth'] = [False if pd.isna(x) else 'Juneteenth' in x for x in df['Characteristics']]
-    df['Money'] = [False if pd.isna(x) else 'Money donated' in x for x in df['Characteristics']]
-    df['Company Leader Statement'] = [False if pd.isna(x) else 'Statement from company head' in x for x in df['Characteristics']]
-    df['Pinned'] = [False if pd.isna(x) else 'Pinned' in x for x in df['Characteristics']]
-    df['URL'] = df['Tweet url']
-    df['ID'] = df['URL'].apply(lambda x: x.split('/')[-1])
-    df['Handle'] = df['URL'].apply(lambda x: x.split('/')[3])
-
-    cols = ['ID', 'URL', 'Handle', 'BLM', 'Juneteenth', 'Money', 'Company Leader Statement']
-    df[cols].to_csv('tmp/blm-tweets-cleaned.csv', index=False)
-
-
 def link_corporate_and_blm_tweets():
     """Extend columns on both the Fortune 100 and BLM CSVs"""
 
@@ -139,13 +122,12 @@ def link_corporate_and_blm_tweets():
     df_b['Datetime'] = [df_t.loc[i]['Datetime'] for i, r in df_b.iterrows()]
     
     # Collect only necessary columns, and output to final CSV.
-    cols = ['Corporation', 'Handle', 'Text', 'Datetime', 'Hashtags', 'BLM', 'Juneteenth', 'Money', 'Company Leader Statement']
+    cols = ['Corporation', 'Handle', 'Text', 'Datetime', 'Hashtags', 'BLM', 'Juneteenth', 'Money', 'Formal Statement']
     df_b[cols].to_csv('data/blm-tweets.csv')
 
 
 def run_pipeline():
     combine_json()
-    parse_blm_tweets()
     link_corporate_and_blm_tweets()
 
 if __name__ == '__main__':
