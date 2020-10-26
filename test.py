@@ -10,6 +10,7 @@ def validate_csvs():
     df_b = pd.read_csv('data/blm-tweets.csv')
     df_t = pd.read_csv('data/fortune-100-tweets.csv', parse_dates=['Datetime'])
     df_i = pd.read_csv('data/fortune-100.csv')
+    df_m = pd.read_csv('data/blm-tweets-categorized.csv')
 
     # Ensure all BLM tweet ids are in the Fortune 100 tweet CSV
     assert all([i in df_t['ID'].tolist() for i in df_b['ID']])
@@ -18,6 +19,10 @@ def validate_csvs():
     uncategorized_tweets = df_t[df_t['Datetime'] < datetime(2020, 5, 25, 0, 0, 0, tzinfo=pytz.utc)]
     assert uncategorized_tweets['Racial Justice'].dropna().shape[0] == 0
 
+    # Ensure manual CSV is not malformed
+    assert len(df_m.columns) == 7
+    bool_cols = ['BLM', 'Juneteenth', 'Money', 'Formal Statement']
+    assert all(df_m[col].dtype == bool for col in bool_cols)
 
 def validate_json():
     """Ensure that JSONs are formatted properly"""
