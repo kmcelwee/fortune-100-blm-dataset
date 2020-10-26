@@ -42,7 +42,7 @@ def link_corporate_and_blm_tweets():
     """Extend columns on both the Fortune 100 and BLM CSVs"""
 
     # Load all the CSVs we'll be linking
-    df_b = pd.read_csv('tmp/blm-tweets-cleaned.csv')
+    df_b = pd.read_csv('data/blm-tweets-categorized.csv')
     df_t = pd.read_csv('tmp/fortune-100-trimmed.csv')
     df_i = pd.read_csv('data/fortune-100.csv')
 
