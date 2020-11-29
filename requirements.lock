@@ -1,2 +1,4 @@
 pandas==1.0.1
 goodtables==2.4.16
+click==7.1.2
+wget==3.2

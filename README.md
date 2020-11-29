@@ -53,6 +53,10 @@ It's difficult to be rigid with this taxonomy. For example, corporate celebratio
 
 Naturally, this dataset should be approached with tremendous care, as a lot of nuance is lost when reducing each tweet to a binary.
 
+### `rj-imgs/`
+
+Images gathered from all Racial Justice tweets. Videos were downloaded as thumbnails.
+
 ### Other files
 - The `tmp` directory is used for unimportant CSVs or data saved mid-pipeline. It's not validated, so only trust data in the `data` repository.
 - `.github/` performs data validation through the [Frictionless Data](https://frictionlessdata.io/) framework and custom scripts in `test.py`. It runs `python test.py` and `goodtables datapackage.json` as well as `python pipeline.py` to make sure that both the published data meets the schema requirements and that the pipeline transforms data into a schema that meets our requirements.
@@ -80,7 +84,7 @@ AT&T Twitter Profile               |  Nike Twitter Profile
 
 ## Quick setup
 
-If for some reason you'd like to run the pipeline locally. Create a Python 3.8 environment and install the necessary libraries using `pip install -r requirements.txt`. Execute with `python pipeline.py`
+If for some reason you'd like to run the pipeline locally. Create a Python 3.8 environment and install the necessary libraries using `pip install -r requirements.txt`. Execute with `python pipeline.py`. If, for some reason, you'd like to re-download the media associated with the tweets, run `python pipeline --download`.
 
 ## Contact
 

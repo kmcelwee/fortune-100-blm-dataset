@@ -1,9 +1,11 @@
 import json
 import pandas as pd
 import os
-from datetime import datetime
-import pytz
+import click
+import wget
 
+from os.path import join as pjoin
+from datetime import datetime
 
 def combine_json():
     def parse_datetime(s):
@@ -119,9 +121,45 @@ def link_corporate_and_blm_tweets():
     df_t[cols].to_csv('data/fortune-100-tweets.csv')
 
 
-def run_pipeline():
+def download_media():
+    """Collect all images from Racial Justice tweets"""
+    DATA_DIR = 'data'
+    RAW_DATA_DIR = 'data/fortune-100-json'
+    OUTPUT_DIR = 'data/rj-imgs'
+
+    # Get the IDs of Racial Justice tweets
+    df_t = pd.read_csv(pjoin(DATA_DIR, 'fortune-100-tweets.csv'))
+    df_b = df_t[df_t['Racial Justice']]
+    racial_justice_ids = set(df_b['ID'].tolist())
+
+    # Collect RJ tweets that contain media
+    rj_tweets = []
+    for filename in os.listdir(RAW_DATA_DIR):
+        with open(pjoin(RAW_DATA_DIR, filename)) as f:
+            company_json = json.load(f)
+        for tweet in company_json:
+            if tweet['id'] in racial_justice_ids:
+                rj_tweets.append(tweet)
+    media_tweets = [x for x in rj_tweets if 'media' in x['entities']]
+
+    # Download the image from each of the RJ tweets that contain media
+    for tweet in media_tweets:
+        for i, media in enumerate(tweet['entities']['media']):
+            url = media['media_url']
+            extension = url.split('.')[-1]
+            assert extension in ['jpg', 'png']
+            output_file = f"{tweet['user']['name']}-{tweet['id']}-{i}.{extension}"
+            wget.download(url, out=pjoin(OUTPUT_DIR, output_file))
+
+
+@click.command()
+@click.option('--download', is_flag=True, help="Download images from tweets")
+def run_pipeline(download):
     combine_json()
     link_corporate_and_blm_tweets()
+    if download:
+        download_media()
+
 
 if __name__ == '__main__':
     run_pipeline()
