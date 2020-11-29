@@ -17,7 +17,7 @@ def combine_json():
         return (
             (tweet_json['in_reply_to_user_id'] is None) and
             (not tweet_json['full_text'].startswith('@')) and
-            (BEGIN <= parse_datetime(tweet_json['created_at']) <= END)
+            (BEGIN <= parse_datetime(tweet_json['created_at']) < END)
         )
 
     # Make a mapper from handle to corporation name
