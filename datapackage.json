@@ -101,6 +101,14 @@
                         }
                     },
                     {
+                        "name": "Hashtags",
+                        "type": "string",
+                        "format": "default",
+                        "constraints": {
+                            "required": false
+                        }
+                    },
+                    {
                         "name": "Racial Justice",
                         "type": "boolean",
                         "format": "default",
@@ -108,14 +116,6 @@
                             "required": true
                         },
                         "description": "Does this tweet directly address the subject of racial inequity as it relates to the death of George Floyd and subsequent protests?"
-                    },
-                    {
-                        "name": "Hashtags",
-                        "type": "string",
-                        "format": "default",
-                        "constraints": {
-                            "required": false
-                        }
                     },
                     {
                         "name": "BLM",
