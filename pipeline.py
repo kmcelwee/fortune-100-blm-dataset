@@ -6,6 +6,20 @@ import pytz
 
 
 def combine_json():
+    def parse_datetime(s):
+        return datetime.strptime(s, "%a %b %d %H:%M:%S +0000 %Y")
+
+    def should_include_tweet(tweet_json):
+        # Given the raw scrape data, what tweets should be included in analysis?
+        BEGIN = datetime(2020, 5, 25, 0, 0, 0)
+        END = datetime(2020, 7, 26, 0, 0, 0)
+
+        return (
+            (tweet_json['in_reply_to_user_id'] is None) and
+            (not tweet_json['full_text'].startswith('@')) and
+            (BEGIN <= parse_datetime(tweet_json['created_at']) <= END)
+        )
+
     # Make a mapper from handle to corporation name
     df_i = pd.read_csv('data/fortune-100.csv')
     handle_map = { r['Handle']: r['Corporation'] for i, r in df_i.iterrows() }
@@ -17,26 +31,18 @@ def combine_json():
             company_json = json.load(f)
         df_t = pd.DataFrame([
             {
-                'created_at': x['created_at'],
-                'id': x['id'],
-                'full_text': x['full_text'].replace('\r', ' '),
-                'hashtags': ';'.join([h['text'] for h in x['entities']['hashtags']]),
-                'corporation': handle_map[filename.split('.')[0]]
-            } for x in company_json if ((x['in_reply_to_user_id'] is None) and (not x['full_text'].startswith('@')))
+                'Datetime': parse_datetime(x['created_at']),
+                'ID': x['id'],
+                'Text': x['full_text'].replace('\r', ' '),
+                'Hashtags': ';'.join([h['text'] for h in x['entities']['hashtags']]),
+                'Corporation': handle_map[filename.split('.')[0]]
+            } for x in company_json if should_include_tweet(x)
         ])
 
         dfs.append(df_t)
 
     df = pd.concat(dfs)
-
-    cols = ['Datetime', 'ID', 'Text', 'Hashtags', 'Corporation']
-    df.columns = cols
-
-    df['dt'] = pd.to_datetime(df['Datetime'])
-    END = datetime(2020, 7, 26, tzinfo=pytz.utc)
-    df_clipped = df[df['dt'] <= END]
-
-    df_clipped[cols].to_csv('tmp/fortune-100-trimmed.csv', index=False)
+    df.to_csv('tmp/fortune-100-trimmed.csv', index=False)
 
 def link_corporate_and_blm_tweets():
     """Extend columns on both the Fortune 100 and BLM CSVs"""
