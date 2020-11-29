@@ -55,6 +55,15 @@
                 ],
                 "missingValues": [
                     ""
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": "Corporation",
+                        "reference": {
+                            "resource": "Corporation",
+                            "fields": "name"
+                        }
+                    }
                 ]
             }
         },
