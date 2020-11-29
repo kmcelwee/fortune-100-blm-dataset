@@ -31,29 +31,25 @@ A directory of raw JSON data pulled from each company's Twitter profile. No repl
 
 ### `fortune-100-tweets.csv`
 
-A csv that attempts to summarize all data found in the `fortune-100-json/` directory by pulling out its most important features.
+A CSV that attempts to summarize all data found in the `fortune-100-json/` directory by pulling out its most important features.
 
 - `ID`: tweet ID
 - `Corporation`: name of company
 - `Text`: the full text of the tweet
 - `Datetime`: the time the tweet was sent
-- `Racial Justice`: does this tweet exist in our `blm-tweets.csv`, read below how that taxonomy is structured. Only tweets after May 25 were categorized, anything before then is treated as null.
 - `Hashtags`: hashtags used, separated by a semicolon
+- `Racial Justice`: Answers the question "Does this tweet directly address the subject of racial inequity as it relates to the death of George Floyd and subsequent protests?" More details below
 
-### `blm-tweets.csv`
-
-A collection of all Fortune 100 tweets that answers the question: "Does this tweet directly address the subject of racial inequity as it relates to the death of George Floyd and subsequent protests?" It's difficult to be rigid with this taxonomy. For example, corporate celebrations of Juneteenth were largely a nod to recent activism, but does it necessarily mean that a corporation is expressing support for the Black Lives Matter movement? Some other gray areas are noted below. This dataset only contains tweets between May 25 and July 25, 2020.
-
-`blm-tweets.csv` is further split into the following categories:
+For all `Racial Justice` tweets, I've applied the following sub-tags:
 
 - `BLM`: Does this tweet or the media attached to this tweet explicitly contain the words "Black Lives Matter"?
 - `Juneteenth`: Does this tweet address Juneteenth?
 - `Money`: Does this tweet mention the corporation's donations to causes (internal or external) addressing racial inequity?
 - `Formal Statement`: Does this tweet quote a leader of the company like a CFO or CEO? Is it a press release?
 
-...and includes the following additional columns shared by `fortune-100-tweets.csv` below: `Corporation`, `Text`, `Datetime`, and `Hashtags`.
+These values are null for any non-Racial Justice tweets.
 
-This dataset does not include tweets that simply say "we promote diversity!" without addressing the current moment. Lockheed Martin, for example, [tweeted](https://twitter.com/LockheedMartin/status/1283068743569092608) [twice](https://twitter.com/LockheedMartin/status/1265643928159694849) about the importance of diversity in hiring, but never addressed that anything especially fraught was happening.
+It's difficult to be rigid with this taxonomy. For example, corporate celebrations of Juneteenth were largely a nod to recent activism, but does it necessarily mean that a corporation is expressing support for the Black Lives Matter movement? Some other gray areas are noted below. This dataset only contains tweets between May 25 and July 25, 2020; however, more data is available in the raw JSON folder. Tweets that simply say "we promote diversity!" without addressing the current moment were not categorized as `Racial Justice` tweets. Lockheed Martin, for example, [tweeted](https://twitter.com/LockheedMartin/status/1283068743569092608) [twice](https://twitter.com/LockheedMartin/status/1265643928159694849) about the importance of diversity in hiring, but never addressed that anything especially fraught was happening.
 
 Naturally, this dataset should be approached with tremendous care, as a lot of nuance is lost when reducing each tweet to a binary.
 
@@ -79,12 +75,12 @@ AT&T Twitter Profile               |  Nike Twitter Profile
 - Lowe's retweeted their CEO, however, the window passed for the API to collect the retweet ID. The JSON data was reconstructed, with the ID and `created_at` field set equal to their CEO's ID. Otherwise, original IDs, not retweet IDs, are listed in all CSVs and JSONs. If one needs an `is_retweet` field, I recommend filtering by tweets starting with `RT @` or drawing directly from the raw JSON.
 - Replies are not included in the dataset, this includes threads. Only the top-most tweet is included, but all categorizations apply to the entire thread.
 - UTC is used.
-- Goldman Sachs plays an odd role here, because they use their Twitter more like a news organization than a PR platform. They host talks with prominent leaders, so naturally, they hosted speakers to speak about racial inequity in the US. These videos are included in `blm-tweets.csv` because they addressed racial inequity, and Goldman used their platform to share these conversations.
+- Goldman Sachs plays an odd role here, because they use their Twitter more like a news organization than a PR platform. They host talks with prominent leaders, so naturally, they hosted speakers to speak about racial inequity in the US. These videos are categorized as `Racial Justice` tweets because they addressed racial inequity, and Goldman used their platform to share these conversations.
 - Lastly, a reminder that this data only helps reveal how companies chose to act *on Twitter*, and does not necessarily reflect their full efforts to address racial inequity.
 
 ## Quick setup
 
-If for some reason you'd like to run the pipeline locally. Create a Python 3.8 environment and install the necessary libraries using `pip install -r requirements.py`. Execute with `python pipeline.py`
+If for some reason you'd like to run the pipeline locally. Create a Python 3.8 environment and install the necessary libraries using `pip install -r requirements.txt`. Execute with `python pipeline.py`
 
 ## Contact
 
