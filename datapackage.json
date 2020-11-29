@@ -49,7 +49,8 @@
                         "format": "default",
                         "constraints": {
                             "required": false
-                        }
+                        },
+                        "description": "Sector as defined by Forbes"
                     }
                 ],
                 "missingValues": [
@@ -105,7 +106,8 @@
                         "format": "default",
                         "constraints": {
                             "required": false
-                        }
+                        },
+                        "description": "Does this tweet directly address the subject of racial inequity as it relates to the death of George Floyd and subsequent protests?"
                     },
                     {
                         "name": "Hashtags",
@@ -185,7 +187,8 @@
                         "format": "default",
                         "constraints": {
                             "required": true
-                        }
+                        },
+                        "description": "Does this tweet or the media attached to this tweet explicitly contain the words 'Black Lives Matter'?"
                     },
                     {
                         "name": "Juneteenth",
@@ -193,7 +196,8 @@
                         "format": "default",
                         "constraints": {
                             "required": true
-                        }
+                        },
+                        "description": "Does this tweet address Juneteenth?"
                     },
                     {
                         "name": "Money",
@@ -201,7 +205,8 @@
                         "format": "default",
                         "constraints": {
                             "required": true
-                        }
+                        },
+                        "description": "Does this tweet mention the corporation's donations to causes (internal or external) addressing racial inequity?"
                     },
                     {
                         "name": "Formal Statement",
@@ -209,7 +214,8 @@
                         "format": "default",
                         "constraints": {
                             "required": true
-                        }
+                        },
+                        "description": "Does this tweet quote a leader of the company like a CFO or CEO? Is it a press release?"
                     }
                 ],
                 "missingValues": [
