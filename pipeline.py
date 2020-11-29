@@ -53,7 +53,7 @@ def link_corporate_and_blm_tweets():
     df_i = pd.read_csv('data/fortune-100.csv')
 
     ####
-    # Data was collected through the UI, which does not offer access to the 
+    # Data was collected through the UI, which does not always offer access to the 
     #   retweet ID. Here we match BLM tweet which has original ID with the data
     #   collected through the API, which contains the retweet ID and the
     #   original ID.
@@ -102,11 +102,7 @@ def link_corporate_and_blm_tweets():
     ####
     # Add a "Racial Justice" column to mark IDs in the BLM tweets dataset
     def is_rj(r):
-        # If before May 25, it was not categorized, so mark as null, otherwise T/F
-        if r['dt'] < datetime(2020, 5, 25, 0, 0, 0):
-            return None
-        else:
-            return r['ID'] in df_b['ID'].tolist()
+        return r['ID'] in df_b['ID'].tolist()
 
     df_t['dt'] = df_t['Datetime'].astype('datetime64')
     df_t['Racial Justice'] = df_t.apply(is_rj, axis=1)
