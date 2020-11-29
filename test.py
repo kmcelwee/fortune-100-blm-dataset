@@ -16,8 +16,10 @@ def validate_csvs():
     assert all([i in df_t['ID'].tolist() for i in df_b['ID']])
 
     # Ensure all Racial Justice categorizations before May 25 are null
-    uncategorized_tweets = df_t[df_t['Datetime'] < datetime(2020, 5, 25, 0, 0, 0, tzinfo=pytz.utc)]
-    assert uncategorized_tweets['Racial Justice'].dropna().shape[0] == 0
+    before_tweets = df_t[df_t['Datetime'] < datetime(2020, 5, 25, 0, 0, 0)]
+    after_tweets = df_t[df_t['Datetime'] >= datetime(2020, 7, 26, 0, 0, 0)]
+    assert before_tweets.shape[0] == 0
+    assert after_tweets.shape[0] == 0
 
     # Ensure manual CSV is not malformed
     assert len(df_m.columns) == 7
