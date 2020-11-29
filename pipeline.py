@@ -101,31 +101,22 @@ def link_corporate_and_blm_tweets():
 
     ####
     # Add a "Racial Justice" column to mark IDs in the BLM tweets dataset
-    def is_rj(r):
-        return r['ID'] in df_b['ID'].tolist()
-
     df_t['dt'] = df_t['Datetime'].astype('datetime64')
-    df_t['Racial Justice'] = df_t.apply(is_rj, axis=1)
+    df_t['Racial Justice'] = df_t.apply(lambda r: r['ID'] in df_b['ID'].tolist(), axis=1)
     assert df_t['Racial Justice'].sum() == df_b.shape[0]
 
-
-    # Collect only necessary columns, and output to final CSV.
-    cols = ['ID', 'Corporation', 'Text', 'Datetime', 'Racial Justice', 'Hashtags']
-    df_t[cols].to_csv('data/fortune-100-tweets.csv', index=False)
-
-
     ####
-    # Extend BLM Tweets with tweet info
-    # HACK: There's a merge / join command for this, but this'll have to do for now.
+    # Extend Fortune 100 Tweets with BLM info
     df_t.index = df_t['ID']
     df_b.index = df_b['ID']
-    df_b['Text'] = [df_t.loc[i]['Text'] for i, r in df_b.iterrows()]
-    df_b['Hashtags'] = [df_t.loc[i]['Hashtags'] for i, r in df_b.iterrows()]
-    df_b['Datetime'] = [df_t.loc[i]['Datetime'] for i, r in df_b.iterrows()]
-    
+    df_t['BLM'] = [df_b.loc[i]['BLM'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
+    df_t['Juneteenth'] = [df_b.loc[i]['Juneteenth'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
+    df_t['Money'] = [df_b.loc[i]['Money'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
+    df_t['Formal Statement'] = [df_b.loc[i]['Formal Statement'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
+
     # Collect only necessary columns, and output to final CSV.
-    cols = ['Corporation', 'Handle', 'Text', 'Datetime', 'Hashtags', 'BLM', 'Juneteenth', 'Money', 'Formal Statement']
-    df_b[cols].to_csv('data/blm-tweets.csv')
+    cols = ['Corporation', 'Text', 'Datetime', 'Hashtags', 'Racial Justice', 'BLM', 'Juneteenth', 'Money', 'Formal Statement']
+    df_t[cols].to_csv('data/fortune-100-tweets.csv')
 
 
 def run_pipeline():
