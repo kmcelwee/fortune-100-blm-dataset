@@ -45,7 +45,6 @@ For all `Racial Justice` tweets, I've applied the following sub-tags:
 - `BLM`: Does this tweet or the media attached to this tweet explicitly contain the words "Black Lives Matter"?
 - `Juneteenth`: Does this tweet address Juneteenth?
 - `Money`: Does this tweet mention the corporation's donations to causes (internal or external) addressing racial inequity?
-- `Formal Statement`: Does this tweet quote a leader of the company like a CFO or CEO? Is it a press release?
 
 These values are null for any non-Racial Justice tweets.
 

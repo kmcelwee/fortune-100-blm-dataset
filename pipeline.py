@@ -114,10 +114,9 @@ def link_corporate_and_blm_tweets():
     df_t['BLM'] = [df_b.loc[i]['BLM'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
     df_t['Juneteenth'] = [df_b.loc[i]['Juneteenth'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
     df_t['Money'] = [df_b.loc[i]['Money'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
-    df_t['Formal Statement'] = [df_b.loc[i]['Formal Statement'] if r['Racial Justice'] else None for i, r in df_t.iterrows()]
 
     # Collect only necessary columns, and output to final CSV.
-    cols = ['Corporation', 'Text', 'Datetime', 'Hashtags', 'Racial Justice', 'BLM', 'Juneteenth', 'Money', 'Formal Statement']
+    cols = ['Corporation', 'Text', 'Datetime', 'Hashtags', 'Racial Justice', 'BLM', 'Juneteenth', 'Money']
     df_t[cols].to_csv('data/fortune-100-tweets.csv')
 
 

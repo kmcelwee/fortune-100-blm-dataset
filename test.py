@@ -13,7 +13,7 @@ def validate_csvs():
 
     # Ensure all Racial Justice sub-tags before May 25 are null if RJ is false
     df_rj = df_t[df_t['Racial Justice']]
-    rj_subtags = ['BLM', 'Money', 'Formal Statement', 'Juneteenth']
+    rj_subtags = ['BLM', 'Money', 'Juneteenth']
     assert all([all(pd.notnull(df_rj[col])) for col in rj_subtags])
 
     # Ensure date cutoffs were successful
@@ -24,7 +24,7 @@ def validate_csvs():
 
     # Ensure manual CSV is not malformed
     assert len(df_m.columns) == 7
-    bool_cols = ['BLM', 'Juneteenth', 'Money', 'Formal Statement']
+    bool_cols = ['BLM', 'Juneteenth', 'Money']
     assert all(df_m[col].dtype == bool for col in bool_cols)
 
 

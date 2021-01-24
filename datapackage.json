@@ -152,15 +152,6 @@
                             "required": false
                         },
                         "description": "Does this tweet mention the corporation's donations to causes (internal or external) addressing racial inequity?"
-                    },
-                    {
-                        "name": "Formal Statement",
-                        "type": "boolean",
-                        "format": "default",
-                        "constraints": {
-                            "required": false
-                        },
-                        "description": "Does this tweet quote a leader of the company like a CFO or CEO? Is it a press release?"
                     }
                 ],
                 "missingValues": [
