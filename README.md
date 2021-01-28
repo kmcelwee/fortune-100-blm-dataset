@@ -69,6 +69,8 @@ AT&T Twitter Profile               |  Nike Twitter Profile
 (July 2020)
 
 - Corporations heavily relied on images with text, for example [this tweet from Amazon](https://twitter.com/amazon/status/1267140211861073927). Querying the `full_text` field will not return all "text" that a corporation tweeted.
+- An ADM spokesperson recommended the handle [@ADMUpdates](https://twitter.com/ADMUpdates) instead of [@TradeADMIS](https://twitter.com/TradeADMIS). Swapping it out wasn't necessary for my purposes, but for others using `fortune-100.csv`, the distinction might be important.
+- This dataset doesn't contain data from Twitter for Advertisers, a legacy Twitter advertising system. I found [one Coca Cola tweet](https://twitter.com/CocaCola/status/1268235977614655488) that was sponsored that is not included in the dataset; however, other companies may have done the same thing.
 - It would be great to know reply counts to get an idea of the general response to some of these campaigns (dividing likes by replies, is a crude but helpful heuristic to measure audience support for a tweet). But for some reason it is absent from the Twitter API.
 - Other useful datapoints that are hidden from API public view is whether tweets were promoted, and what companies had to hide hateful replies.
 - Some tweets contained the carriage return `\r`. They were replaced with `' '` to prevent malformed CSVs.
