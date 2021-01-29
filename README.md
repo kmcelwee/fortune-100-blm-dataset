@@ -1,5 +1,7 @@
 # The Corporate Response to #BlackLivesMatter on Twitter
 
+Dataset website: https://kmcelwee.github.io/fortune-100-blm-report/site/
+
 Twitter data from Fortune 100 companies from May 25 to July 25, 2020, the two months following the death of George Floyd. All tweets have been manually categorized to help analyze the corporate response to the #BlackLivesMatter protests.
 
 ![validation](https://github.com/kmcelwee/fortune-100-blm/workflows/validation/badge.svg)
