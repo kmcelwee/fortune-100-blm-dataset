@@ -1,13 +1,6 @@
 name: validation
 
-on:
-  workflow_dispatch:
-    inputs:
-      body:
-        default: ""
-      test:
-        default: "false"
-  push:
+on: [push]
 
 jobs:
   validate-published-data:
